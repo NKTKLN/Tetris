@@ -13,11 +13,11 @@ Tetris is the most famous computer game invented and programmed by Soviet progra
 
 ## 💿 Download the compiled version
 
-* 🍎 [MacOS](https://github.com/NKTKLN/Tetris/releases/download/alpha/tetris-amd64-macos)
+* 🍎 [MacOS](https://github.com/NKTKLN/Tetris/releases/download/stable/tetris-amd64-macos)
   
-* 🐧 [Linux](https://github.com/NKTKLN/Tetris/releases/download/alpha/tetris-amd64-linux)
+* 🐧 [Linux](https://github.com/NKTKLN/Tetris/releases/download/stable/tetris-amd64-linux)
 
-* 🪟 [Windows](https://github.com/NKTKLN/Tetris/releases/download/alpha/tetris-amd64-windows.exe)
+* 🪟 [Windows](https://github.com/NKTKLN/Tetris/releases/download/stable/tetris-amd64-windows.exe)
 
 ## ⚙️ Running from source
 
